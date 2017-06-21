@@ -1,4 +1,4 @@
-# Blosxom Plugin: atomfeed -*-cperl-*-
+# Blosxom Plugin: atomfeed -*- mode: cperl; -*-
 # Author(s): Original plugin: Rael Dornfest <rael@oreilly.com>
 #            XML::Parser: Sam Ruby
 #            UTC and <modified> fixes for 0.3: Frank Hecker
